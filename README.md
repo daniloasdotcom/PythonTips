@@ -4,4 +4,4 @@
 
 ## Summary
 
-1. Lines of code for creating menus with Python 
+1. Python Tips #01 - Lines of code for creating menus with Python 
