@@ -4,5 +4,4 @@
 
 ## Summary
 
-1. 
-[Python Tips #01 - Lines of code for creating menus with Python](https://github.com/daniloaspk/PythonTips/blob/master/PythonTips01.py)
+1. [Python Tips #01 - Lines of code for creating menus with Python](https://github.com/daniloaspk/PythonTips/blob/master/PythonTips01.py)
